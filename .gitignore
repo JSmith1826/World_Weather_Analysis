@@ -3,7 +3,7 @@ config.py
 # adding config file copies in the project folders
 weather_database/config
 Vacation_Search/config
-
+Vacation_Itinerary/config
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
