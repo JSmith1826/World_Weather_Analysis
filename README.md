@@ -11,7 +11,8 @@ Python 3.10.4, Pandas Library, Citipy Module, Matplotlib, Jupyter Notebook
 Google Maps API, Goople Places API, Open Weather API
 
 ## Output
-### Weather Heatmap
+### Weather Dataframe Example
+![Dataframe](/Weather_Database/db_sample.png)
 
 
 ### Vacation Search
